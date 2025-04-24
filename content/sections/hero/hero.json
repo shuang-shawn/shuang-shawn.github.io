@@ -1,22 +1,22 @@
 {
-  "intro": "Hi",
+  "intro": "",
   "heroPhoto": {
     "src": "../../images/Shuang1.jpg",
     "alt": "My Photo"
   },
   "image": {
-    "src": "../../images/waving-hand.png",
+    "src": "../../images/waving.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "Hi, I'm Shuang Wu",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+    "prefix": "",
+    "highlight": "",
+    "suffix": ""
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "A driven software developer with a love for tech and problem-solving.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": false
   }
 }
