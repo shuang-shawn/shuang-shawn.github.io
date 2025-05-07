@@ -2,47 +2,43 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "AWS Timesheet Engine",
+      "title": "ChronoSystems",
+      "description": "A cloud-based platform that enables businesses to efficiently manage employee timesheets and pay stubs, built on a microservice architecture that seamlessly integrates multiple services into a unified, scalable system.",
+      "tags": ["Python", "JavaScript", "Node.js", "Express.js", "Microservices", "AWS API Gateway", "AWS Lambda", "AWS Step Functions", "DynamoDB"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/chronos.png",
+        "alt": "ChronoSystems",
+        "linkTo": "https://github.com/Syte1/ChronoSystems-AWS-TimeSheet-Engine"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://github.com/Syte1/ChronoSystems-AWS-TimeSheet-Engine"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "Full-Stack WebApp",
+      "title": "Squamish Real Estate Website",
+      "description": "Redesigned and migrated a commercial website from Django to React for a modern user interface, moved data infrastructure to AWS for scalability, and implemented API Gateway endpoints to deliver user-facing data insights.",
+      "tags": ["React", "Next.js", "AWS Route 53", "AWS S3", "AWS API Gateway", "HTML", "CSS"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/realestate.png",
+        "alt": "Squamish Real Estate Website"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "type": "external",
+          "url": "https://squamish.realestate/"
         }
       ]
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "url": "https://github.com/shuang-shawn"
   }
 }

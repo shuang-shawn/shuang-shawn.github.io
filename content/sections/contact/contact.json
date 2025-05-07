@@ -1,13 +1,13 @@
 {
-  "name": "Gatsby Starter For Portfolio Minimal",
-  "email": "example@mail.com",
+  "name": "Shuang Wu",
+  "email": "shuang.shawn1101@gmail.com",
   "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
   "image": {
     "src": "../../images/egg.png",
-    "alt": "Gatsby Logo"
+    "alt": "Egg Logo"
   },
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": true
   }
 }

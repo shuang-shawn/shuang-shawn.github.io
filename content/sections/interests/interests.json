@@ -1,9 +1,9 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "C#",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/",
         "alt": ""
       }
     },
