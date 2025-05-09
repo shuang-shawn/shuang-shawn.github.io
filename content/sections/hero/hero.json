@@ -16,7 +16,7 @@
   },
   "description": "A driven software developer with a love for tech and problem-solving.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Github", "Mail"],
+    "from": ["Github", "mail", "LinkedIn"],
     "showIcons": false
   }
 }

@@ -2,7 +2,7 @@
   "projects": [
     {
       "visible": true,
-      "category": "AWS Timesheet Engine",
+      "category": "Group Project",
       "title": "ChronoSystems",
       "description": "A cloud-based platform that enables businesses to efficiently manage employee timesheets and pay stubs, built on a microservice architecture that seamlessly integrates multiple services into a unified, scalable system.",
       "tags": ["Python", "JavaScript", "Node.js", "Express.js", "Microservices", "AWS API Gateway", "AWS Lambda", "AWS Step Functions", "DynamoDB"],
@@ -20,18 +20,73 @@
     },
     {
       "visible": true,
-      "category": "Full-Stack WebApp",
+      "category": "Commercial Project",
       "title": "Squamish Real Estate Website",
-      "description": "Redesigned and migrated a commercial website from Django to React for a modern user interface, moved data infrastructure to AWS for scalability, and implemented API Gateway endpoints to deliver user-facing data insights.",
-      "tags": ["React", "Next.js", "AWS Route 53", "AWS S3", "AWS API Gateway", "HTML", "CSS"],
+      "description": "A commercial website migration from Django to React for a modernized UI, with data infrastructure moved to AWS for scalability and API Gateway endpoints implemented to serve user-facing data insights.",
+      "tags": ["React", "Next.js", "Node.js", "AWS CloudWatch", "AWS S3", "AWS API Gateway", "AWS EC2", "DynamoDB", "HTML", "CSS"],
       "image": {
         "src": "../../images/realestate.png",
-        "alt": "Squamish Real Estate Website"
+        "alt": "Squamish Real Estate Website",
+        "linkTo": "https://squamish.realestate/"
       },
       "links": [
         {
           "type": "external",
           "url": "https://squamish.realestate/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Personal Project",
+      "title": "Personal Shell",
+      "description": "A Unix shell written in C with custom shell scripts for task automation, featuring process, filesystem, and memory management, along with support for background execution to enable simultaneous process handling.",
+      "tags": ["Linux", "Unix", "C", "Process Management"],
+      "image": {
+        "src": "../../images/bash.png",
+        "alt": "Personal Shell",
+        "linkTo": "https://github.com/shuang-shawn/Custom-Shell"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/shuang-shawn/Custom-Shell"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Group Project",
+      "title": "AI Summarizer",
+      "description": "An AI text summarizer using a pretrained model from HuggingFace in combination with a login system, an admin page, a documented API, and an API limit for users.",
+      "tags": ["Python", "JavaScript", "Flask", "HuggingFace", "Artificial Intelligence", "Teamwork"],
+      "image": {
+        "src": "../../images/summarizer.png",
+        "alt": "Personal Shell",
+        "linkTo": "https://github.com/pangchunh/ai-summarizer"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/pangchunh/ai-summarizer"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "NwHacks Hackathon 2022",
+      "title": "SmoothTalk",
+      "description": "A web application built to help users improve public speaking skills through speech-to-text analysis and real-time detection of filler words, using Node.js and WebSocket for seamless audio streaming to Amazon Transcribe.",
+      "tags": ["JavaScript", "Node.js", "Amazon Transcribe", "WebSocket", "24-Hour Hackathon", "Speech-to-Text"],
+      "image": {
+        "src": "../../images/talking.png",
+        "alt": "SmoothTalk",
+        "linkTo": "https://github.com/Niki-Guo/SmoothTalk"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Niki-Guo/SmoothTalk"
         }
       ]
     }

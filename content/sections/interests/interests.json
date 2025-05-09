@@ -8,51 +8,114 @@
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "Python",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/",
         "alt": ""
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "C++",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/",
         "alt": ""
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "Java",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/",
         "alt": ""
       }
     },
     {
-      "label": "Animations",
+      "label": "C",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/em-",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "JavaScript",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/",
         "alt": ""
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "AWS",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/g",
         "alt": ""
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "React",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/hi",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Node.js",
+      "image": {
+        "src": "../../images/hi",
+        "alt": ""
+      }
+    },
+    {
+      "label": "OOP",
+      "image": {
+        "src": "../../images/hi",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Linux",
+      "image": {
+        "src": "../../images/hi",
+        "alt": ""
+      }
+    },
+    {
+      "label": "SQL",
+      "image": {
+        "src": "../../images/hi",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Docker",
+      "image": {
+        "src": "../../images/hi",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Git",
+      "image": {
+        "src": "../../images/hi",
+        "alt": ""
+      }
+    },
+    {
+      "label": "DynamoDB",
+      "image": {
+        "src": "../../images/hi",
+        "alt": ""
+      }
+    },
+    {
+      "label": "MongoDB",
+      "image": {
+        "src": "../../images/hi",
+        "alt": ""
+      }
+    },
+    {
+      "label": "RESTFUL API",
+      "image": {
+        "src": "../../images/hi",
         "alt": ""
       }
     }

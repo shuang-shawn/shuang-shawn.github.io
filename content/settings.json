@@ -11,7 +11,7 @@
     "social": {
       "behance": "",
       "github": "https://github.com/shuang-shawn",
-      "medium": "",
+      "medium": "https://shuang-shawn.github.io/resume/Shuang_Wu_Resume_2025_Game.pdf",
       "linkedin": "https://www.linkedin.com/in/shuangwu94/",
       "mail": "mailto:shuang.shawn1101@gmail.com"
     }
@@ -23,11 +23,13 @@
         { "label": "About", "url": "/#about" },
         { "label": "Projects", "url": "/#features" },
         { "label": "Github", "url": "/#github" }
+        
+        
       ],
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/resume.pdf"
+        "url": "/Shuang_Wu_Resume_2025.pdf"
       },
       "footer": [
         
