@@ -89,6 +89,28 @@
           "url": "https://github.com/Niki-Guo/SmoothTalk"
         }
       ]
+    },
+    {
+      "visible": true,
+      "category": "BCIT Winter Hacks 2021 (Winner)",
+      "title": "Stonks",
+      "description": "A simple web application with customized trading algorithms of low, medium, and high risk tolerance levels to automate stock trading for users.",
+      "tags": ["React", "Node.js", "JavaScript", "Python", "48-Hour Hackathon", "MaterialUI", "Yahoo Finance API", "algorithm"],
+      "image": {
+        "src": "../../images/stonks.png",
+        "alt": "Stonks",
+        "linkTo": "https://devpost.com/software/stonks-iaw7mk#updates"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://devpost.com/software/stonks-iaw7mk"
+        },
+        {
+          "type": "github",
+          "url": "https://github.com/shuang-shawn/STONKS/tree/main"
+        }
+      ]
     }
   ],
   "button": {
